@@ -16,7 +16,7 @@ At a certain point you get your opportunity to do something bigger. So you can p
 The ones that become the best are the ones that dedicate more hours that their competitor.
 
 ---
-<a href="/kiwibear/zhdocs">Upto KiWi.egoist.zhdocs</a> 
+<a href="/zhdocs">Upto KiWi.egoist.zhdocs</a> 
 
 
  

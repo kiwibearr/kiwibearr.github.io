@@ -5,23 +5,18 @@ permalink: docs
 
 # Docs
 
-## Configuration
+## Making your passion long time 
 
-This theme can be configured by modifying the `_config.yml` file.
+It’s like being a professional athlete.
 
-### Theme settings
+You need to be prepared to do the hours. You need to practice. You need to do all this for free. With no financial gain.
 
-This theme supports three different mode provided by `hack.css`:
+At a certain point you get your opportunity to do something bigger. So you can put your skills to the test.
 
-- `standard`
-- `markdown`
-- `dark`
+The ones that become the best are the ones that dedicate more hours that their competitor.
 
-Set `theme_mode` to the desired value.
+---
+<a href="/kiwibear/zhdocs">Upto KiWi.egoist.zhdocs</a> 
 
-### Available customizations
 
-- `your_name` and `email` strings to display them in different places on site
-- `navigation` is an array of `text` and `url` pairs to render the menu
-- `projects` is a setting that contains data for the `examples` page, every item must contain `name` and `link`, `image` and `description` are optional
-- `social` contains an array of three required params: `service` is used to include a service icon by the {% raw %}`{% include icon-{{ service }}.html %}`{% endraw %} command, `username` and `link` are quite obvious
+ 

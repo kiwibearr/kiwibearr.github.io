@@ -97,3 +97,13 @@ a {
 a:hover {
   background-color: #2eff6d;
 }
+
+.writing {
+  display: grid;
+  grid-column-gap: 5px;
+  grid-row-gap: 5px;
+  justify-content: end;
+  align-content: stretch;
+  grid-template-columns: 10fr max-content;
+}
+

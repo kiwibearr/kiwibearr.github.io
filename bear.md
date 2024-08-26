@@ -2,7 +2,7 @@
 layout: default
 permalink: note
 ---
-
-<img src="/images/bear.png"  width="300" height="300">
-
+<img src="/images/bear.png"  width="150" height="120">
 ---
+
+

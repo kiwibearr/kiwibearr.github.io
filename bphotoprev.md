@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: myread
+permalink: prevreading
 ---
 《Bad Sex》🍕🍕🍕
 
@@ -30,5 +30,7 @@ permalink: myread
 
 <img src="/images/Badsex.jpg">
 
+---
+
 --
-<a href="/prevreading">Back to Prev. </a> 
+<a href="/myread">Up to New. </a> 
